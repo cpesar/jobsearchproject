@@ -1,0 +1,126 @@
+body{background-color:cornsilk;}
+
+h1 {
+  text-align: center; font-size: 60px; color: cornflowerblue; font-style: normal;
+  
+}
+#Description {text-align: center; font-size: 30px; font-style: normal;}
+
+h2 {
+  text-align: center; font-size: 60px;color: salmon;
+}
+
+h3 {
+  text-align: center;
+}
+
+#Javascript {
+  
+
+}
+.resize1{
+  height: 200px; 
+  width: 500px;
+}
+
+#jpad{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#React{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+#html{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+#Mongo{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+
+}
+.resize2{
+  height: 250px;
+  width: 500px;
+}
+
+#Node{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#PHP{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#Amazon{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#SQL{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#C{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#Typescript{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
+
+#Angular{
+  padding-top: 10px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+
+  font-size: 35px;
+}
